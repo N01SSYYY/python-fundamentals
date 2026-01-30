@@ -1,0 +1,7 @@
+What does if actually check? it checks to meet the conditions we define after "if". It evaluates if a condition is true or false
+
+How is elif different from if? elif is a condition after if, it is a subset of the condition. As in, if not the previous condition, then it should pass this. It will check elif only after the all previous if elif statements are false
+
+Why does indentation matter in Python? It is to group codes efficiently, helps with readability too. Indentation defines which lines belong to which block of logic. Without correct indentation, Python cannot determine program flow.
+
+When would two separate if statements be correct? if both the conditions are met
