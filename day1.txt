@@ -1,0 +1,9 @@
+Write answers in plain English:
+
+What does print() do? It displays the input 
+
+What is a variable? variables are reusable data
+
+Why did "2" + "3" become "23"? They were read as text instead of numbers
+
+What does int() do? It converts text into numbers
