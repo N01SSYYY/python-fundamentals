@@ -1,0 +1,14 @@
+Difference between for and while:
+A for loop is used when the number of iterations is known or when looping over a sequence.
+A while loop is used when repetition depends on a condition and the number of iterations is not known in advance.
+
+Why infinite loops happen:
+Infinite loops happen when the loop condition never becomes false, usually because the loop variable is not updated or there is no exit condition.
+
+Difference between break and continue:
+break immediately exits the loop.
+continue skips the current iteration and moves to the next one.
+
+One real use-case for each loop:
+A for loop is used to iterate over a fixed range or collection of values.
+A while loop is used when repetition depends on user input or a changing condition.
