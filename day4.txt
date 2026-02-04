@@ -1,0 +1,9 @@
+
+
+What is a list? They are mutable, ordered values.
+
+Why indexing starts at 0? 0 represents the start of the memory
+
+Difference between list and string: List are mutable, ordered values, whereas strings are immutable and stores a sequence of characters
+
+One real use-case for lists: It is used to store and process related data
