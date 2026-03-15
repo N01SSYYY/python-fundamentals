@@ -1,0 +1,13 @@
+What is a function?
+A function is a named block of reusable code that performs a specific task.
+
+Difference between parameter and argument:
+A parameter is a variable defined in the function definition.
+An argument is the value passed to the function when it is called.
+
+Difference between print and return:
+print() displays a value to the screen.
+return sends a value back to the place where the function was called.
+
+Why functions improve programs:
+Functions make code reusable, organized, easier to debug, and easier to maintain.
