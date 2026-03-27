@@ -1,0 +1,11 @@
+What concepts were used in this project?
+Loops, conditionals, functions, dictionaries, and input/output.
+
+What part was hardest?
+Creating the menu.
+
+How functions helped structure the program:
+Functions helped organize the program by separating logic into reusable parts, making the code cleaner and easier to manage.
+
+One improvement you added:
+Prevented duplicate student entries.
